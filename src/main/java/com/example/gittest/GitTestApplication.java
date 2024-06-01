@@ -13,6 +13,7 @@ public class GitTestApplication {
         System.out.println("提交第三次");
         System.out.println("hot-fix");
         System.out.println("master耶耶");
+        System.out.println("hot-fix耶耶");
     }
 
 }
