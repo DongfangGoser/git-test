@@ -10,6 +10,7 @@ public class GitTestApplication {
         SpringApplication.run(GitTestApplication.class, args);
 
         System.out.println("更新以下");
+        System.out.println("提交第三次");
     }
 
 }
